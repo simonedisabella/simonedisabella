@@ -20,9 +20,9 @@ Alongside my academic work, I have developed hands-on familiarity with digital-a
 
 ## Selected work
 
-### [Copula-Based Portfolio Simulation](https://github.com/simonedisabella/copula-portfolio-simulation)
+### [Financial Market Risk Modelling](https://github.com/simonedisabella/financial-market-risk-modelling)
 
-Portfolio simulation and risk-analysis project using **Variance-Gamma marginal distributions**, a **Gaussian copula** and Monte Carlo simulation to model non-normal returns and cross-asset dependence.
+University group coursework developed by a four-person team, covering **Newey-West inference**, **AR(1)-GARCH(1,1) Monte Carlo analysis**, **Variance-Gamma marginals with a Gaussian copula**, and **CreditRisk+ under Student-t dependence**, with a focus on statistical inference, dependence modelling and portfolio tail risk.
 
 ## Academic work being prepared for GitHub
 
@@ -32,7 +32,6 @@ Completed university projects currently being reviewed and reorganised into repr
 - **Flexible Asset Allocation** — MATLAB
 - **Optimal Capital Allocation** — MATLAB
 - **Applied Financial Econometrics** — R
-- **Statistical Modelling for Financial Markets** — R
 
 Each repository will include the relevant methodology, code, results, limitations and contribution notes, with proprietary or non-redistributable data excluded where necessary.
 
