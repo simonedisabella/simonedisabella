@@ -1,16 +1,56 @@
-## Hi there 👋
+# Simone D'Isabella
 
-<!--
-**simonedisabella/simonedisabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc candidate in Economics & Finance | Quantitative Research · Statistical Modelling · Risk · Derivatives**
 
-Here are some ideas to get you started:
+I am an MSc candidate in Economics and Finance at the University of Milano-Bicocca, with expected graduation in **March 2027**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic work is focused on quantitative finance, with experience across econometrics, statistical modelling, portfolio construction, risk and derivatives. Most of my completed quantitative coursework has been developed in **R and MATLAB**, while I am currently expanding my research workflow in **Python**, with a particular focus on financial time series, machine learning and fixed income.
+
+Alongside my academic work, I have developed hands-on familiarity with digital-asset ecosystems, DeFi protocols and on-chain markets. I am particularly interested in research problems where statistical methods, portfolio construction and market structure meet.
+
+## Research interests
+
+- Systematic investment research
+- Financial time series and forecasting
+- Statistical modelling and econometrics
+- Portfolio construction and risk management
+- Derivatives pricing and volatility
+- Fixed income and macro-financial analysis
+- Digital assets and market microstructure
+
+## Selected work
+
+### [Copula-Based Portfolio Simulation](https://github.com/simonedisabella/copula-portfolio-simulation)
+
+Portfolio simulation and risk-analysis project using **Variance-Gamma marginal distributions**, a **Gaussian copula** and Monte Carlo simulation to model non-normal returns and cross-asset dependence.
+
+## Academic work being prepared for GitHub
+
+Completed university projects currently being reviewed and reorganised into reproducible research repositories:
+
+- **Advanced Derivatives Market Analysis** — MATLAB
+- **Flexible Asset Allocation** — MATLAB
+- **Optimal Capital Allocation** — MATLAB
+- **Applied Financial Econometrics** — R
+- **Statistical Modelling for Financial Markets** — R
+
+Each repository will include the relevant methodology, code, results, limitations and contribution notes, with proprietary or non-redistributable data excluded where necessary.
+
+## Current research
+
+### BTP Macro-ML Risk Lab — *in development*
+
+A Python research project on one-month-ahead changes in the **Italy-Germany 10-year sovereign spread**.
+
+The project compares market-only and market-plus-macro information using econometric and machine-learning models under walk-forward validation. Particular attention is given to information timing, look-ahead bias and model robustness. Forecasts are then translated into fixed-income risk through duration, DV01 and an approximately DV01-neutral BTP-Bund pair.
+
+## Technical toolkit
+
+- **R / RStudio** — econometrics, statistical modelling, simulation and risk analysis
+- **MATLAB** — derivatives, portfolio allocation and numerical finance
+- **Python** — data analysis, financial time series and machine-learning research in development
+- **Bloomberg Terminal** — financial-market data and empirical research
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/simone-d-isabella-465595270/)
