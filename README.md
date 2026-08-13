@@ -4,9 +4,9 @@
 
 I am an MSc candidate in Economics and Finance at the University of Milano-Bicocca, with expected graduation in **March 2027**.
 
-My academic work is focused on quantitative finance, with experience across econometrics, statistical modelling, portfolio construction, risk and derivatives. Most of my completed quantitative coursework has been developed in **R and MATLAB**, while I am currently expanding my research workflow in **Python**, with a particular focus on financial time series, machine learning and fixed income.
+My academic work is focused on quantitative finance, with particular interest in statistical modelling, financial time series, portfolio construction, risk and derivatives. Most of my completed quantitative coursework has been developed in **R and MATLAB**, while I am currently expanding my research workflow in **Python**, particularly for time-series, machine-learning and fixed-income applications.
 
-Alongside my academic work, I have developed hands-on familiarity with digital-asset ecosystems, DeFi protocols and on-chain markets. I am particularly interested in research problems where statistical methods, portfolio construction and market structure meet.
+Alongside my academic work, I have developed hands-on familiarity with digital-asset ecosystems, DeFi protocols and on-chain markets. I am especially interested in research problems at the intersection of statistical methods, portfolio construction and market structure.
 
 ## Research interests
 
@@ -20,20 +20,13 @@ Alongside my academic work, I have developed hands-on familiarity with digital-a
 
 ## Selected work
 
+### [Advanced Derivatives Market Analysis](https://github.com/simonedisabella/advanced-derivatives-market-analysis)
+
+University group coursework developed by a four-person team and implemented in **MATLAB**, covering option no-arbitrage diagnostics, implied-volatility modelling, Black-Scholes and Monte Carlo pricing, a one-maturity VSTOXX approximation, EURO STOXX 50 / VSTOXX dependence, EUR OIS curve construction and callable credit-equity-linked bond valuation.
+
 ### [Financial Market Risk Modelling](https://github.com/simonedisabella/financial-market-risk-modelling)
 
-University group coursework developed by a four-person team, covering **Newey-West inference**, **AR(1)-GARCH(1,1) Monte Carlo analysis**, **Variance-Gamma marginals with a Gaussian copula**, and **CreditRisk+ under Student-t dependence**, with a focus on statistical inference, dependence modelling and portfolio tail risk.
-
-## Academic work being prepared for GitHub
-
-Completed university projects currently being reviewed and reorganised into reproducible research repositories:
-
-- **Advanced Derivatives Market Analysis** — MATLAB
-- **Flexible Asset Allocation** — MATLAB
-- **Optimal Capital Allocation** — MATLAB
-- **Applied Financial Econometrics** — R
-
-Each repository will include the relevant methodology, code, results, limitations and contribution notes, with proprietary or non-redistributable data excluded where necessary.
+University group coursework developed by a four-person team and implemented in **R**, covering **Newey-West inference**, **AR(1)-GARCH(1,1) Monte Carlo analysis**, **Variance-Gamma marginals with a Gaussian copula**, and **CreditRisk+ under Student-t dependence**, with emphasis on statistical inference, dependence modelling and portfolio tail risk.
 
 ## Current research
 
@@ -45,7 +38,7 @@ The project compares market-only and market-plus-macro information using econome
 
 ## Technical toolkit
 
-- **R / RStudio** — econometrics, statistical modelling, simulation and risk analysis
+- **R** — econometrics, statistical modelling, simulation and risk analysis
 - **MATLAB** — derivatives, portfolio allocation and numerical finance
 - **Python** — data analysis, financial time series and machine-learning research in development
 - **Bloomberg Terminal** — financial-market data and empirical research
