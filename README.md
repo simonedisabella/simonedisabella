@@ -28,6 +28,10 @@ University group coursework developed by a three-person team and implemented in 
 
 University group coursework developed by a four-person team and implemented in **MATLAB**, covering option no-arbitrage diagnostics, implied-volatility modelling, Black-Scholes and Monte Carlo pricing, a one-maturity VSTOXX approximation, EURO STOXX 50 / VSTOXX dependence, EUR OIS curve construction and callable credit-equity-linked bond valuation.
 
+### [Optimal Capital Allocation](https://github.com/simonedisabella/optimal-capital-allocation)
+
+University group coursework developed by a four-person team and implemented in **MATLAB**, applying the quadratic optimal-capital-allocation framework of Dhaene et al. to a five-equity portfolio using empirical VaR/TCE, aggregate-portfolio and business-unit tail-state weighting, and rolling capital-attribution analysis.
+
 ### [Financial Market Risk Modelling](https://github.com/simonedisabella/financial-market-risk-modelling)
 
 University group coursework developed by a four-person team and implemented in **R**, covering **Newey-West inference**, **AR(1)-GARCH(1,1) Monte Carlo analysis**, **Variance-Gamma marginals with a Gaussian copula**, and **CreditRisk+ under Student-t dependence**, with emphasis on statistical inference, dependence modelling and portfolio tail risk.
