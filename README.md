@@ -32,6 +32,10 @@ University group coursework developed by a four-person team and implemented in *
 
 University group coursework developed by a four-person team and implemented in **MATLAB**, applying the quadratic optimal-capital-allocation framework of Dhaene et al. to a five-equity portfolio using empirical VaR/TCE, aggregate-portfolio and business-unit tail-state weighting, and rolling capital-attribution analysis.
 
+### [Financial Time-Series Econometrics](https://github.com/simonedisabella/financial-time-series-econometrics)
+
+Individual university coursework implemented in **R** across 20 exercises, covering return diagnostics, ARMA/ARIMA modelling, unit-root testing, ARCH/GARCH/EGARCH volatility models, multi-step forecasting and VaR/Expected Shortfall in an audited, reproducible repository.
+
 ### [Financial Market Risk Modelling](https://github.com/simonedisabella/financial-market-risk-modelling)
 
 University group coursework developed by a four-person team and implemented in **R**, covering **Newey-West inference**, **AR(1)-GARCH(1,1) Monte Carlo analysis**, **Variance-Gamma marginals with a Gaussian copula**, and **CreditRisk+ under Student-t dependence**, with emphasis on statistical inference, dependence modelling and portfolio tail risk.
