@@ -20,10 +20,6 @@ Alongside my academic work, I have developed hands-on familiarity with digital-a
 
 ## Selected work
 
-### [Flexible Asset Allocation](https://github.com/simonedisabella/flexible-asset-allocation)
-
-University group coursework developed by a three-person team and implemented in **MATLAB**, evaluating FAA-inspired multi-asset rules based on momentum, volatility, correlation and a 12-month trend filter under in-sample selection and out-of-sample backtesting.
-
 ### [Advanced Derivatives Market Analysis](https://github.com/simonedisabella/advanced-derivatives-market-analysis)
 
 University group coursework developed by a four-person team and implemented in **MATLAB**, covering option no-arbitrage diagnostics, implied-volatility modelling, Black-Scholes and Monte Carlo pricing, a one-maturity VSTOXX approximation, EURO STOXX 50 / VSTOXX dependence, EUR OIS curve construction and callable credit-equity-linked bond valuation.
